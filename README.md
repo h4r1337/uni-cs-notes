@@ -37,3 +37,15 @@
 | CS1345      | Design and Analysis of Algorithms |
 | CS1346      | Java Programming Lab              |
 | CS1347      | DBMS Lab                          |
+
+## Semester - IV
+
+| Course Code | Course Name                    |
+| ----------- | ------------------------------ |
+| CS1441      | System Software                |
+| CS1442      | Web Programming and PHP        |
+| CS1443      | Computer Networks and Security |
+| CS1444      | Computer Graphics              |
+| CS1445      | Minor Project                  |
+| CS1446      | Computer Graphics Lab          |
+| CS1447      | Web Programming and PHP Lab    |
