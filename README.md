@@ -25,3 +25,15 @@
 | CS1242      | Computer Architecture and Microprocessors |
 | CS1243      | Data Structures Lab                       |
 | CS1244      | Assembly language Programming Lab         |
+
+## Semester - III
+
+| Course Code | Course Name                       |
+| ----------- | --------------------------------- |
+| CS1341      | Programming in Java               |
+| CS1342      | Software Engineering              |
+| CS1343      | Operating Systems                 |
+| CS1344      | Database Management Systems       |
+| CS1345      | Design and Analysis of Algorithms |
+| CS1346      | Java Programming Lab              |
+| CS1347      | DBMS Lab                          |
