@@ -26,7 +26,7 @@
 | CS1243      | Data Structures Lab                       |
 | CS1244      | Assembly language Programming Lab         |
 
-## Semester - III
+### Semester - III
 
 | Course Code | Course Name                       |
 | ----------- | --------------------------------- |
@@ -38,7 +38,7 @@
 | CS1346      | Java Programming Lab              |
 | CS1347      | DBMS Lab                          |
 
-## Semester - IV
+### Semester - IV
 
 | Course Code | Course Name                    |
 | ----------- | ------------------------------ |
@@ -49,3 +49,4 @@
 | CS1445      | Minor Project                  |
 | CS1446      | Computer Graphics Lab          |
 | CS1447      | Web Programming and PHP Lab    |
+
