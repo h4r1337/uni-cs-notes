@@ -7,7 +7,7 @@
 | Course Code | Course Name                                |
 | ----------- | ------------------------------------------ |
 | CS1111      | Speaking and Listening                     |
-| CS1131      | Mathematics I                              |
+| MM1131      | Mathematics I                              |
 | CS1121      | Computer Fundamentals and Programming in C |
 | CS1132      | Digital Electronics                        |
 | CS1122      | Value Education                            |
